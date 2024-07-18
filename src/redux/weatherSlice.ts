@@ -2,7 +2,7 @@ import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 import { RootState } from './store';
 
-const apiKey = 'd940a2754224c78199df367ab8c18d82';
+const apiKey = 'YOUR_API_KEY';
 
 interface WeatherState {
     data: any;
