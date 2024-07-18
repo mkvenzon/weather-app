@@ -8,7 +8,7 @@ This is a simple weather application built with React, TypeScript, Redux, and Op
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/mkvenzon/weather-app.git
     cd weather-app
     ```
 
@@ -31,6 +31,3 @@ This is a simple weather application built with React, TypeScript, Redux, and Op
 
 3. Enter a location and click the "Get Weather" button to fetch and display the weather information.
 
-## License
-
-This project is licensed under the MIT License.
