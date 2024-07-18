@@ -1,11 +1,9 @@
 # Weather App
 
 ## Description
-
 This is a simple weather application built with React, TypeScript, Redux, and OpenWeatherMap API. It allows users to enter a location and fetch the current weather information.
 
 ## Installation
-
 1. Clone the repository:
 
    ```bash
@@ -18,7 +16,10 @@ This is a simple weather application built with React, TypeScript, Redux, and Op
    ```bash
    npm install
    ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> e3a9bb44ced07269be559eb43a81d8e4597a7573
 ## Usage
 
 1. Start the development server:
